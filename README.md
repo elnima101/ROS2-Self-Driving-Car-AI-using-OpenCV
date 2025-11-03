@@ -5,14 +5,10 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#About-this-Repository">🤝 About This Repository</a></li>
-    <li><a href="#Using-this-Repository">⚡ Using this Repository</a></li>
     <li><a href="#Course-Workflow">🔄 Course Workflow</a></li>
     <li><a href="#Features">⛲ Features</a></li>
-    <li><a href="#Pre-Course-Requirments">🧊 Pre-Course Requirements</a></li>
     <li><a href="#Repository-Tree">🌳 Repository Tree</a></li>
     <li><a href="#Star-History">🌟 Star History</a></li>
-    <li><a href="#Link-to-the-Course">🔗 Link to the Course</a></li>
-    <li><a href="#Instructors">👤 Instructors</a></li>
     <li><a href="#License">📝 License</a></li>
   </ol>
 </details>
@@ -22,17 +18,7 @@ A tesla Like Car in ROS2 will follow lane , Use AI to classify Sign Boards and p
 
 [![alt text](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/blob/main/Images_videos/thumbnail_1.png)](https://youtu.be/D5BkqDcfw2U "Click to Watch Intro Video on Youtube")
 ----
-## Using this Repository
-----
-**Docker**:
 
- [![alt text](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/blob/master/images/linux.png)](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/blob/main/docker/running_on_linux.md "Follow the guide to setup docker on Linux")&nbsp;&nbsp;
- [![alt text](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/blob/master/images/windows.png)](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/blob/main/docker/running_on_windows.md "Follow the guide to setup docker on Windows 10")&nbsp;&nbsp;
-
-
-**Ubuntu-20.04**: 
-- Follow along the [Wiki](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/wiki/Ubuntu-20.04-Setup-Guide) guide to setup the project.
-----
 ## Course Workflow
 #### **Ros Package**
 * World Models Creation
@@ -88,23 +74,6 @@ A tesla Like Car in ROS2 will follow lane , Use AI to classify Sign Boards and p
 * **Custom Models**
   -  ![alt text](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/blob/main/Images_videos/custom_models.gif)
 
-----
-## Pre-Course Requirments
-
-**Software Based**
-* Ubuntu 20.04 (LTS)
-* ROS2 - Foxy Fitzroy
-* Python 3.6
-* Opencv 4.2
-* Tensorflow 2.14
-
-**Skill Based**
-* Basic ROS2 Nodes Communication
-* Launch Files
-* Gazebo Model Creation
-* Basic OpenCV Usage
-* Motivated mind :)
----
 
 ## Repository Tree
 > Explaining repository structure (i.e important files and their functions).
@@ -117,18 +86,6 @@ A tesla Like Car in ROS2 will follow lane , Use AI to classify Sign Boards and p
 
 [![Star History Chart](https://api.star-history.com/svg?repos=noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV&type=Date)](https://star-history.com/#noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV&Date)
 
----
-
-## Link to the Course
-
-✨ Enroll Now with Special Discount ✨ **[[Discounted Link]](https://www.udemy.com/course/ros2-self-driving-car-with-deep-learning-and-computer-vision/?couponCode=STARTON)**
-
-----
-
-## Instructors
-
-Haider Najeeb   (Computer Vision)    -  [Profile Link](https://www.linkedin.com/in/haider-najeeb-68812516a/)
-Muhammad Luqman (ROS Simulation and Control Systems) - [Profile Link](https://www.linkedin.com/in/muhammad-luqman-9b227a11b/)
 
 ----
 ## License
