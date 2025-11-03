@@ -4,7 +4,6 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#About-this-Repository">🤝 About This Repository</a></li>
     <li><a href="#Course-Workflow">🔄 Course Workflow</a></li>
     <li><a href="#Features">⛲ Features</a></li>
     <li><a href="#Repository-Tree">🌳 Repository Tree</a></li>
@@ -13,11 +12,6 @@
   </ol>
 </details>
 
-## About this Repository
-A tesla Like Car in ROS2 will follow lane , Use AI to classify Sign Boards and perform Object tracking to act on the sign boards and set speed respectively
-
-[![alt text](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/blob/main/Images_videos/thumbnail_1.png)](https://youtu.be/D5BkqDcfw2U "Click to Watch Intro Video on Youtube")
-----
 
 ## Course Workflow
 #### **Ros Package**
@@ -73,18 +67,6 @@ A tesla Like Car in ROS2 will follow lane , Use AI to classify Sign Boards and p
 
 * **Custom Models**
   -  ![alt text](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/blob/main/Images_videos/custom_models.gif)
-
-
-## Repository Tree
-> Explaining repository structure (i.e important files and their functions).
-
-![alt text](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/blob/main/Images_videos/ROS2_SDC_Tree.png)
-
-----
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV&type=Date)](https://star-history.com/#noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV&Date)
 
 
 ----
