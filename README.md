@@ -15,6 +15,9 @@
 
 ## Using this Repository
 ----
+This repository contains the complete software stack for a simulated autonomous vehicle, developed as part of a thesis project. The system is built on ROS 2 (Foxy), simulates a Toyota Prius in Gazebo, and uses a hybrid perception system: classical computer vision (OpenCV) for lane following and a custom-trained Convolutional Neural Network (CNN) for traffic sign recognition.
+
+The entire environment, including ROS 2, all dependencies, and trained models, is encapsulated in a Docker container to ensure a simple, one-command setup and perfect reproducibility.
 **Docker**:
 
  [![alt text](https://github.com/HaiderAbasi/ROS2-Path-Planning-and-Maze-Solving/blob/master/images/linux.png)](https://github.com/noshluk2/ROS2-Self-Driving-Car-AI-using-OpenCV/blob/main/docker/running_on_linux.md "Follow the guide to setup docker on Linux")&nbsp;&nbsp;
